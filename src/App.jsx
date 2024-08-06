@@ -6,6 +6,8 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
+  console.log("Hello, Vite + React!");
+
   return (
     <>
       <div>
